@@ -9,6 +9,6 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="https://www.facebook.com/photo.php?fbid=4571429296252726&set=pb.100001571019416.-2207520000..&type=3" />
+    <img src="https://vk.com/armen_antonyan" />
   </body>
 </html>
