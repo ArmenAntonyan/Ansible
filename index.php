@@ -5,7 +5,8 @@
   </head>
   <body>
   
- <font color="gold"> <h1>Welcome to your awesome app !</h1>
+ <font color="gold"> <h1>Welcome to your awesome app !</h1> <br>
+ <font color="red">Owner oo this Server is: {{ owner }} <br>
 
   <p> App backend <?=gethostname()?> </p>
 
