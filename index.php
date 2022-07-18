@@ -9,6 +9,6 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="https://vk.com/armen_antonyan" />
+    <img src="~/Downloads/111.jpg"/>
   </body>
 </html>
